@@ -1,0 +1,8 @@
+title: Pierogi Times
+description: Can Poland into space? Here, you’ll find data-led stories about Poland, its social issues, and public policy.
+author: Your Name
+github_username: pierogi-times
+theme: minima
+show_excerpts: true
+plugins:
+  - jekyll-feed
